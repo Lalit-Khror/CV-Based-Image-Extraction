@@ -108,7 +108,7 @@ def extract_figures_from_pdf(pdf_path, output_folder):
     pdf_document.close()
 
 # Define the path to the PDF file to be processed.
-pdf_file_path = r"C:\Users\lkkpk\Desktop\Final Project\Chapter 1.pdf"  # Update this path if necessary.
+pdf_file_path = r"Path_to_the_PDF"  # Update this path if necessary.
 
 # Define the output folder path to save the extracted figures.
 output_folder = "Output_Final"  # Folder where extracted figures will be saved.
